@@ -7,6 +7,8 @@ body{
 	height:100%;
 	width:100%;
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+	padding:2px;
+	margin-bottom:0;
 }
 
 h1{
@@ -14,6 +16,7 @@ h1{
 /* 	border:1px solid #ffffff; */
 	background-color:#f8f8f8;
 	margin-bottom:30px;
+	margin-top:0;
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
@@ -30,13 +33,17 @@ img{
 	margin-bottom:30px;
 }
 
+#lastbook{
+	margin-bottom:0;
+}
+
 h2{
 	font-size:15px;
 	margin:0;
 	margin-left:10px;
 }
 
-button{
+#buy{
 	width:95%;
 	height:auto;
 	background-color:#2ecc71;
@@ -44,11 +51,12 @@ button{
 	border:none;
 	padding:5px;
 	margin:10px;
+	text-align:center;
 }
 
-button:active{
+/* button:active{
 	background-color:lightpink;
-}
+} */
 
 p{
 	font-style:italic;
