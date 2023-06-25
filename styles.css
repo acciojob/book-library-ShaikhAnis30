@@ -30,7 +30,7 @@ img{
 	margin-bottom:30px;
 }
 
-h3{
+h2{
 	font-size:15px;
 	margin:0;
 	margin-left:10px;
@@ -54,4 +54,5 @@ p{
 	font-style:italic;
 	margin:0;
 	margin-left:10px;
+	color:#777777;
 }
