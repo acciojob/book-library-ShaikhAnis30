@@ -1,1 +1,53 @@
 /*  your css code here. If applicable */
+body{
+/* 	border:1px solid lightgray; */
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+.book-library{
+	height:100%;
+	width:100%;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+h1{
+	text-align:center;
+/* 	border:1px solid #ffffff; */
+	background-color:#f8f8f8;
+	margin-bottom:30px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+img{
+	width:150px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+.book{
+	background-color:#f8f8f8;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	margin-bottom:30px;
+}
+
+h3{
+	font-size:15px;
+	margin:0;
+	margin-left:10px;
+}
+
+button{
+	width:95%;
+	height:auto;
+	background-color:#2ecc71;
+	border-radius:3px;
+	border:none;
+	padding:5px;
+	margin:10px;
+}
+
+p{
+	font-style:italic;
+	margin:0;
+	margin-left:10px;
+}
