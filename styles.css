@@ -46,6 +46,10 @@ button{
 	margin:10px;
 }
 
+button:active{
+	background-color:lightpink;
+}
+
 p{
 	font-style:italic;
 	margin:0;
